@@ -1,8 +1,1 @@
-# Retrotripadvisor
-                        ╦═╗╔═╦╔╦╗╦═╗╔═╗
-                        ╠╦╝╠╣  ║ ╠╦╝║ ║
-                        ╩╚═╚═╝ ╩ ╩╚═╚═╝
-                        ╔╦╗╦═╗╦╔═╗╔═╗╔╦╗╦  ╦╦╔═╗╔═╗╦═╗
-                         ║ ╠╦╝║╠═╝╠═╣ ║║╚╗╔╝║╚═╗║ ║╠╦╝
-                         ╩ ╩╚═╩╩  ╩ ╩═╩╝ ╚╝ ╩╚═╝╚═╝╩╚═
-First School project written in C
+[My image](Amine-Hmi.github.com/Retrotripadvisor/img/retro1.png)
